@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/mehmettirmaakk" target="blank"><img src="https://img.shields.io/twitter/follow/mehmettirmaakk?logo=twitter&style=for-the-badge" alt="mehmettirmaakk" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Kafka, Redis, Domain Driven Design (DDD), advanced Node.js patterns**
+- 🌱 I’m currently learning **Go (Golang), Microservices Architecture, gRPC, Domain Driven Design (DDD)**
 
-- 👯 I’m looking to collaborate on **Full-stack, mobile, or backend projects using React Native, Node.js, Python, or Java**
+- 👯 I’m looking to collaborate on **Full-stack, mobile, or backend projects using React Native, Node.js, Python, or Go**
 
-- 🤝 I’m looking for help with **Scaling backend systems with microservices, Kafka, and Redis**
+- 🤝 I’m looking for help with **Scaling backend systems using Go, Kafka, and Redis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehmettalhairmak](https://github.com/mehmettalhairmak)
 
