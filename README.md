@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [☕ The Future of Go: Meet Green Tea GC — Faster, More Efficient Garbage Collection](https://medium.com/@mehmetirmaakk/the-future-of-go-meet-green-tea-gc-faster-more-efficient-garbage-collection-aae942bc939a?source=rss-4090ceca92f4------2)
 - [Building a Production-Ready E-commerce Payment API with Go and Stripe: A Modular Architecture Guide](https://medium.com/@mehmetirmaakk/building-a-production-ready-e-commerce-payment-api-with-go-and-stripe-a-modular-architecture-guide-7bc223fa47ef?source=rss-4090ceca92f4------2)
 - [Google Play’s 2025 Deadline: Target API Level 35 or Get Delisted](https://medium.com/@mehmetirmaakk/google-plays-2025-deadline-target-api-level-35-or-get-delisted-995f3d5ed658?source=rss-4090ceca92f4------2)
 - [From Zero to Production: A Complete Guide to React Native Clean Architecture with Detox](https://medium.com/@mehmetirmaakk/from-zero-to-production-a-complete-guide-to-react-native-clean-architecture-with-detox-d3aa7a1b83fe?source=rss-4090ceca92f4------2)
-- [Domain-Driven &amp; Test-Driven React Native: Expo SDK 53 Background Task Case Study](https://medium.com/@mehmetirmaakk/domain-driven-test-driven-react-native-expo-sdk-53-background-task-case-study-81366290bf96?source=rss-4090ceca92f4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
