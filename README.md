@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently focused on **Go (Golang), Microservices, and Event-Driven Architectures.**
+- 🔭 I’m currently focused on **Go (Golang), Node.js, Microservices, and Event-Driven Architectures.**
 - 🏗️ I specialize in designing **Serverless AWS infrastructures** and optimizing database latency.
 - 📱 I also build production-ready mobile apps using **React Native** with offline-first capabilities.
 - ⚡ Fun fact: **I build side projects just to test new architecture ideas. Then refactor them until they break.**
@@ -61,9 +61,3 @@
 - [Google Play’s 2025 Deadline: Target API Level 35 or Get Delisted](https://medium.com/@mehmetirmaakk/google-plays-2025-deadline-target-api-level-35-or-get-delisted-995f3d5ed658?source=rss-4090ceca92f4------2)
 - [From Zero to Production: A Complete Guide to React Native Clean Architecture with Detox](https://medium.com/@mehmetirmaakk/from-zero-to-production-a-complete-guide-to-react-native-clean-architecture-with-detox-d3aa7a1b83fe?source=rss-4090ceca92f4------2)
 <!-- BLOG-POST-LIST:END -->
-<br />
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mehmettalhairmak&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="mehmettalhairmak" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettalhairmak&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact" alt="mehmettalhairmak" height="160" />
-</div>
