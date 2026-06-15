@@ -94,8 +94,8 @@ I am currently architecting the backend and building the mobile ecosystem for Vi
 
 ### 📝 Latest Technical Articles
 <!-- BLOG-POST-LIST:START -->
+- [Preparing for the Quantum Apocalypse: Post-Quantum Cryptography in Go 1.27, Node.js, and Python](https://medium.com/@mehmetirmaakk/post-quantum-cryptography-go-nodejs-python-2026-7498f8cd8b2b?source=rss-4090ceca92f4------2)
 - [Building and Automating Production-Ready Cloud Architecture: Go, GCP, and Terraform](https://medium.com/@mehmetirmaakk/building-and-automating-production-ready-cloud-architecture-go-gcp-and-terraform-a0e6938caa49?source=rss-4090ceca92f4------2)
 - [Stop Letting Users Spy on Each Other! ️‍♂️ Building a Smart Media Guard in NestJS](https://medium.com/@mehmetirmaakk/stop-letting-users-spy-on-each-other-%EF%B8%8F-%EF%B8%8F-building-a-smart-media-guard-in-nestjs-9d7640bd4b98?source=rss-4090ceca92f4------2)
 - [☕ The Future of Go: Meet Green Tea GC — Faster, More Efficient Garbage Collection](https://medium.com/@mehmetirmaakk/the-future-of-go-meet-green-tea-gc-faster-more-efficient-garbage-collection-aae942bc939a?source=rss-4090ceca92f4------2)
-- [Building a Production-Ready E-commerce Payment API with Go and Stripe: A Modular Architecture Guide](https://medium.com/@mehmetirmaakk/building-a-production-ready-e-commerce-payment-api-with-go-and-stripe-a-modular-architecture-guide-7bc223fa47ef?source=rss-4090ceca92f4------2)
 <!-- BLOG-POST-LIST:END -->
